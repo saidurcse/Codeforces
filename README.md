@@ -4,5 +4,4 @@ Codeforces.com is a programming contest platform. All the solutions here I uploa
 
 If you have any doubt or quesitons, feel free to ask me.
 
-Thanks
 Saidur Rahman
