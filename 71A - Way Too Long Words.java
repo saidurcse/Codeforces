@@ -1,3 +1,5 @@
+http://codeforces.com/problemset/problem/71/A
+
 import java.io.*;
 import java.util.*;
 
